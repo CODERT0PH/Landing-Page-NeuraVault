@@ -9,8 +9,8 @@ Landing Page desarrollada como parte de un proyecto académico. Utiliza HTML, CS
 - Christoper Steven Rivas Castillo (U202323551)
 
 ## Segmento Objetivo
- Estudiantes universitarios preocupados por la seguridad de sus dispositivos.
- Trabajadores urbanos independientes/dependientes en búsqueda de protección tecnológica para sus dispositivos.
+- Estudiantes universitarios preocupados por la seguridad de sus dispositivos.
+- Trabajadores urbanos independientes/dependientes en búsqueda de protección tecnológica para sus dispositivos.
 
 ## Características
 - Diseño responsive
